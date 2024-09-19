@@ -1,0 +1,187 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Preahvihear:400|Inter:400,700|Roboto:600");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/66e0f339386861ab50b0facc.66e0f33a386861ab50b0facf.EVgh38r.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.top {
+  align-items: center;
+  background-image: url(../img/rectangle-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 150px;
+  margin-top: 56px;
+  min-width: 1400px;
+  padding: 0 34px;
+  z-index: 2;
+}
+
+.create-an-account {
+  left: 38px;
+  letter-spacing: 8.64px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 296px;
+}
+
+.overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 109px;
+  height: 74px;
+  margin-left: 5.0px;
+  margin-top: 73px;
+  min-width: 1325px;
+  z-index: 3;
+}
+
+.view-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 70px;
+  margin-top: 78px;
+  min-width: 1330px;
+  z-index: 5;
+}
+
+.ellipse-5 {
+  height: 185px;
+  object-fit: cover;
+  width: 185px;
+}
+
+.view-container-1 {
+  margin-left: 10.0px;
+  z-index: 7;
+}
+
+.view-container-2 {
+  margin-left: 10.0px;
+  z-index: 6;
+}
+
+.view-container-3 {
+  margin-left: 20.0px;
+  z-index: 8;
+}
+
+.view-container-4 {
+  margin-left: 20.0px;
+  z-index: 9;
+}
+
+.enter {
+  left: 20px;
+  letter-spacing: 9.36px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 179px;
+}
+
+.footer-1 {
+  align-items: flex-end;
+  background-image: url(../img/footer.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 358px;
+  padding: 139px 149px;
+  width: 1400px;
+}
+
+.we-are-lights-we-have-the-rights {
+  letter-spacing: 11.52px;
+  line-height: normal;
+  min-height: 76px;
+  text-align: center;
+  width: 1102px;
+}
+
+.footer-link-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 217px;
+  height: 30px;
+  min-width: 1023px;
+}
+
+.footer-link {
+  letter-spacing: 0;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 710px;
+}
+
+.footer-link-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.view-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 70px;
+  margin-top: 55px;
+  min-width: 1330px;
+}
+
+.r-1 {
+  height: 340px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 593px;
+}
+
+.text-5 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 6.0px;
+  min-height: 28px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.keyboard-arrow-down {
+  height: 52px;
+  width: 77px;
+}

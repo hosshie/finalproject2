@@ -1,0 +1,138 @@
+/* screen - search */
+
+.search {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1923px;
+  width: 1400px;
+}
+
+.search .header {
+  height: 55px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1400px;
+  z-index: 6;
+}
+
+.search .mv {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 500px;
+  justify-content: flex-end;
+  margin-top: 55px;
+  min-width: 1400px;
+  padding: 53px 69px;
+  z-index: 1;
+}
+
+.search .overlap-group-1 {
+  height: 340px;
+  position: relative;
+  width: 1192px;
+}
+
+.search .text-50 {
+  left: 515px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 96px;
+  width: 677px;
+}
+
+.search .view {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 2.0px;
+  margin-top: 94px;
+  min-height: 156px;
+  width: 1162px;
+  z-index: 4;
+}
+
+.search .text {
+  letter-spacing: 22.08px;
+  line-height: normal;
+  margin-left: 17px;
+  margin-top: -1px;
+  min-height: 36px;
+  white-space: nowrap;
+}
+
+.search .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--gray);
+  border-radius: 5px;
+  display: flex;
+  gap: 817px;
+  height: 108px;
+  justify-content: flex-end;
+  margin-left: -2px;
+  min-width: 1166px;
+  padding: 26px 18px;
+}
+
+.search .view-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 79px;
+  min-height: 156px;
+  width: 1162px;
+  z-index: 5;
+}
+
+.search .view-2 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  margin-left: 2.0px;
+  margin-top: 156px;
+  min-width: 250px;
+  padding: 8px 15px;
+  z-index: 3;
+}
+
+.search .overlap-group1 {
+  height: 104px;
+  position: relative;
+  width: 219px;
+}
+
+.search .text_label {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 219px;
+}
+
+.search .footer {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 156px;
+  min-height: 394px;
+  width: 1400px;
+  z-index: 2;
+}

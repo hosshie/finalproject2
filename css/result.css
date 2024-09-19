@@ -1,0 +1,223 @@
+/* screen - result */
+
+.result {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2846px;
+  width: 1400px;
+}
+
+.result .header {
+  height: 56px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1400px;
+  z-index: 10;
+}
+
+.result .overlap-group1 {
+  height: 98px;
+  position: relative;
+  width: 609px;
+}
+
+.result .view-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 37px;
+  min-height: 90px;
+  padding: 0 37px;
+  position: absolute;
+  top: 8px;
+  width: 572px;
+}
+
+.result .overlap-group-1 {
+  height: 28px;
+  margin-top: -6px;
+  position: relative;
+  width: 373px;
+}
+
+.result .line-1 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 373px;
+}
+
+.result .text_label {
+  letter-spacing: 7.20px;
+  min-height: 44px;
+  width: 373px;
+}
+
+.result .game-iconscandle-light {
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.result .overlap-group {
+  height: 78px;
+  margin-top: -2px;
+  position: relative;
+  width: 609px;
+}
+
+.result .text-2-1 {
+  left: 0;
+  letter-spacing: 22.08px;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 250px;
+}
+
+.result .view {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--gray);
+  border-radius: 5px;
+  height: 78px;
+  left: 171px;
+  position: absolute;
+  top: 0;
+  width: 438px;
+}
+
+.result .text-1-1 {
+  left: 0;
+  letter-spacing: 9.60px;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 250px;
+}
+
+.result .view-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 5px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 12px;
+  height: 281px;
+  padding: 5px 18px;
+  width: 630px;
+}
+
+.result .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 5px;
+  margin-top: 2.0px;
+  min-height: 243px;
+  width: 185px;
+}
+
+.result .text {
+  margin-right: 6.0px;
+  min-height: 42px;
+  text-align: center;
+  width: 87px;
+}
+
+.result .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 261px;
+  width: 392px;
+}
+
+.result .text-1 {
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.result .text-2 {
+  min-height: 49px;
+  white-space: nowrap;
+}
+
+.result .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 163px;
+  margin-top: 21px;
+  min-width: 392px;
+}
+
+.result .text-3 {
+  min-height: 163px;
+  width: 327px;
+}
+
+.result .like {
+  height: 65px;
+  margin-bottom: 20px;
+  width: 65px;
+}
+
+.result .view-3 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--black);
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  margin-right: 100px;
+  margin-top: 181px;
+  min-width: 250px;
+  padding: 8px 15px;
+  z-index: 4;
+}
+
+.result .overlap-group4 {
+  height: 104px;
+  position: relative;
+  width: 219px;
+}
+
+.result .text_label-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 29px;
+  width: 219px;
+}
+
+.result .footer {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 85px;
+  min-height: 394px;
+  width: 1400px;
+  z-index: 1;
+}
+
+.result .text-4 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.result .text_label-2 {
+  line-height: normal;
+  text-align: center;
+}
