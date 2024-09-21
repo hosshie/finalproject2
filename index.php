@@ -8,17 +8,19 @@
     <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
-    <link rel="stylesheet" type="text/css" href="css/pcu95top.css" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
   </head>
 
   <body style="margin: 0; background: #ffffff">
-    <input type="hidden" id="anPageName" name="page" value="pcu95top" />
+    <input type="hidden" id="anPageName" name="page" value="index" />
     <div class="container-center-horizontal">
-      <div class="pcu95top screen">
+      <div class="index screen">
 
-        <img class="header" src="img/header.svg" alt="header" />
+      <a href="index.php">
+        <img class="header" src="img/header-1.svg" alt="header" />
+      </a>
         
         <div class="mv">
           <div class="overlap-group7">
@@ -38,8 +40,8 @@
             
               <div class="overlap-group2">
 
-              
-              <a href="search.html"> <div class="rectangle-10"></div></a>
+
+              <a href="search.php"> <div class="rectangle-10"></div></a>
               <div class="text_label preahvihear-normal-white-40px">候補者検索</div>
               <div class="search search-2 preahvihear-normal-white-24px">Search</div>
               <img class="vector" src="img/vector-5.svg" alt="Vector" />
@@ -75,7 +77,7 @@
           立候補者の情報を集めるのに 苦労した経験はありませんか？<br />
           テレビや新聞は情報が偏っていて参考にならない<br />
           Ｘには 情報が溢れすぎていて信憑性がない<br />
-          かといってすべての候補者について<br />
+          かといってすべての候補者について 個人のSNSを調べていく時間はない<br />
           <br />
           ライツがそのすべてを解決します<br />
           <br />

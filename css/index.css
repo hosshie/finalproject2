@@ -1,0 +1,368 @@
+/* screen - index */
+
+.index {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4315px;
+  width: 1400px;
+}
+
+.index .header {
+  height: 55px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1400px;
+  z-index: 7;
+}
+
+.index .mv {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 500px;
+  justify-content: flex-end;
+  margin-top: 55px;
+  min-width: 1400px;
+  padding: 53px 69px;
+  z-index: 5;
+}
+
+.index .overlap-group7 {
+  height: 340px;
+  position: relative;
+  width: 1192px;
+}
+
+.index .text-49 {
+  left: 515px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 96px;
+  width: 677px;
+}
+
+.index .view-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 187px;
+  margin-left: 65.0px;
+  margin-top: 77px;
+  min-width: 997px;
+  z-index: 4;
+}
+
+.index .view {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 258px;
+  overflow: hidden;
+  width: 405px;
+}
+
+.index .text-4 {
+  letter-spacing: 6.00px;
+  margin-left: -1px;
+  margin-top: 11px;
+  min-height: 28px;
+  white-space: nowrap;
+  width: 407px;
+}
+
+.index .overlap-group2 {
+  border-radius: 50px;
+  height: 207px;
+  position: relative;
+  width: 406px;
+}
+
+.index .rectangle-10 {
+  background-color: var(--black);
+  border-radius: 50px;
+  cursor: pointer;
+  height: 207px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.index .text_label {
+  left: 55px;
+  letter-spacing: 10.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+  width: 295px;
+}
+
+.index .search {
+  left: 91px;
+  top: 25px;
+}
+
+.index .vector {
+  height: 65px;
+  left: 162px;
+  position: absolute;
+  top: 131px;
+  width: 81px;
+}
+
+.index .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-height: 207px;
+  padding: 11px 55px;
+  width: 406px;
+}
+
+.index .overlap-group1 {
+  height: 105px;
+  margin-top: 14px;
+  position: relative;
+  width: 295px;
+}
+
+.index .text_label-1 {
+  left: 0;
+  letter-spacing: 10.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 33px;
+  width: 295px;
+}
+
+.index .search-1 {
+  left: 36px;
+  top: 0;
+}
+
+.index .vector-1 {
+  align-self: center;
+  height: 65px;
+  width: 62px;
+}
+
+.index .view-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 125px;
+  margin-top: 231px;
+  min-width: 372px;
+  z-index: 3;
+}
+
+.index .overlap-group {
+  height: 109px;
+  margin-top: -5px;
+  position: relative;
+  width: 377px;
+}
+
+.index .overlap-group-1 {
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.index .game-iconscandle-light {
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 75px;
+}
+
+.index .text {
+  left: 61px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 63px;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.index .about {
+  left: 61px;
+  letter-spacing: 9.60px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 316px;
+}
+
+.index .line-1 {
+  height: 1px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  width: 288px;
+}
+
+.index .text_label-2 {
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: 76px;
+  min-height: 1441px;
+  text-align: center;
+  width: 1300px;
+  z-index: 2;
+}
+
+.index .view-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 287px;
+  min-height: 729px;
+  width: 800px;
+  z-index: 1;
+}
+
+.index .view-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 125px;
+  min-width: 372px;
+}
+
+.index .overlap-group3 {
+  align-items: flex-start;
+  background-color: #d9d9d9;
+  display: flex;
+  height: 70px;
+  margin-top: 37px;
+  min-width: 800px;
+  padding: 20px;
+}
+
+.index .text-4-1 {
+  color: #6e6e75;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  letter-spacing: 9.36px;
+  line-height: normal;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.index .overlap-group4 {
+  align-items: flex-start;
+  background-color: #d9d9d9;
+  display: flex;
+  height: 271px;
+  margin-top: 35px;
+  min-width: 800px;
+  padding: 22px 20px;
+}
+
+.index .overlap-group2-1 {
+  border-radius: 50px;
+  height: 130px;
+  margin-left: 2.0px;
+  margin-top: 67px;
+  position: relative;
+  width: 250px;
+}
+
+.index .text-44 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 40px;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.index .submit {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  left: 52px;
+  letter-spacing: 9.36px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.index .view-5 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border-radius: 50px;
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 250px;
+  padding: 8px 15px;
+  position: absolute;
+  top: 0;
+}
+
+.index .overlap-group-3 {
+  height: 104px;
+  position: relative;
+  width: 219px;
+}
+
+.index .text_label-3 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  width: 219px;
+}
+
+.index .footer {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 142px;
+  min-height: 394px;
+  width: 1400px;
+  z-index: 6;
+}
+
+.index .search-2 {
+  letter-spacing: 9.36px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  width: 224px;
+}
+
+.index .text-1 {
+  line-height: normal;
+  text-align: center;
+}
