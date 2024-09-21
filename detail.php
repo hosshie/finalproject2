@@ -55,7 +55,9 @@ $age = $birthdate->diff($now)->y;
     <input type="hidden" id="anPageName" name="page" value="detail" />
     <div class="container-center-horizontal">
       <div class="detail screen">
-        <img class="header" src="img/header-2.svg" alt="header" />
+      <a href="index.php">
+        <img class="header" src="img/header-1.svg" alt="header" />
+      </a>
         <div class="top">
           <div class="overlap-group1">
             <div class="view">
