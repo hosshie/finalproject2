@@ -54,7 +54,7 @@
                 <div class="text_label-1 preahvihear-normal-white-40px">ログイン</div>
                 <div class="search-1 search-2 preahvihear-normal-white-24px">Login</div>
               </div>
-              <img class="vector-1" src="img/vector.svg" alt="Vector" />
+              <img class="vector-1" src="img/vector.svg" alt="Vector" style="display: block; max-width: 100%; height: auto;" />
             </div>
           </div>
         </div>

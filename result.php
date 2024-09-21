@@ -90,6 +90,13 @@ if ($status == false) {
         .header {
             max-width: 100%; 
         }
+        .view-1 {
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .view-1:hover {
+            background-color: #f0f0f0;
+        }
     </style>
   </head>
 
@@ -123,7 +130,7 @@ if ($status == false) {
               <div class="view-container<?php echo floor($index / 2) + 1; ?> view-container-5">
             <?php endif; ?>
             
-            <article class="view-1">
+            <article class="view-1" onclick="window.location='detail.php?id=<?= $candidate['id'] ?>'">
               <div class="flex-col">
                 <img class="ellipse-5" src="img/ellipse-5@2x.png" alt="Ellipse 5" />
                 <div class="text text-4 roboto-semi-bold-black-32px">
